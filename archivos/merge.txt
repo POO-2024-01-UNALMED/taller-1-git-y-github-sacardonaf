@@ -1,3 +1,6 @@
 Santiago Cardona Franco
 18 años
 Mis aspiraciones con la materia son aprender desde el principio las bases relacionadas con el paradigma de la programación orientada a objetos y como esta se puede aplicar en diversas ramas del mundo laboral en la actualidad.
+Ahora si se pudo crear un commit porque la carpeta ya no está vacía y GitHub Desktop ahora si lo considera como un cambio en nuestro proyecto.
+
+porque si no se tiene cuidado con ello, se presentará un conflicto entre los archivos porque la información se estará modificando desde dos partes diferentes y el sistema no sabrá con cual de las opciones quedarse.
