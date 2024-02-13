@@ -1,1 +1,0 @@
-Ahora si se pudo crear un commit porque la carpeta ya no está vacía y GitHub Desktop ahora si lo considera como un cambio en nuestro proyecto.
